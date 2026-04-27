@@ -13,7 +13,7 @@ O objetivo é sobreviver e explorar, com mecânicas básicas de movimentação e
 
 ## 📸 Screenshot
 
-(Tela.png)
+![Assets](Tela.png)
 
 ---
 
