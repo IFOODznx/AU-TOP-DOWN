@@ -42,6 +42,10 @@ O objetivo é sobreviver e explorar, com mecânicas básicas de movimentação e
 
 ---
 
+## 🎮 Controles
+
+- WASD / Setas → Movimento
+
 ## 📌 Status do projeto
 
 🚧 Em desenvolvimento
